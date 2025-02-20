@@ -1,0 +1,20 @@
+.text-red {
+  color: red;
+}
+
+.text-large {
+  font-size: 20px;
+}
+
+.equal-height {
+  align-items: stretch;
+}
+
+.equal-height > * {
+  height: 100%;
+}
+
+.flex {
+  height: 20px;
+}
+
